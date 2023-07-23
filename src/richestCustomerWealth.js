@@ -1,5 +1,5 @@
 import "./styles.css";
-
+//test
 var maximumWealth = function (accounts) {
   let richest = 0;
   for (let i = 0; i < accounts.length; i++) {
@@ -17,7 +17,7 @@ var calculSum = (numbers) => {
 let result = maximumWealth([
   [2, 8, 7],
   [7, 1, 3],
-  [1, 9, 5]
+  [1, 9, 5],
 ]);
 
 console.log(result);
