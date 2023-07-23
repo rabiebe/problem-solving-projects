@@ -1,0 +1,16 @@
+{
+  "name": "richest-customer-wealth",
+  "version": "1.0.0",
+  "description": "A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
