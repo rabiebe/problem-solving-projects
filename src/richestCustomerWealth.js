@@ -1,5 +1,5 @@
 import "./styles.css";
-//test
+//i want to test git
 var maximumWealth = function (accounts) {
   let richest = 0;
   for (let i = 0; i < accounts.length; i++) {

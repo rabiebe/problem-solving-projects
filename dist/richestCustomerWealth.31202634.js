@@ -176,7 +176,7 @@ module.hot.accept(reloadCSS);
 "use strict";
 
 require("./styles.css");
-//test
+//i want to test git
 var maximumWealth = function maximumWealth(accounts) {
   var richest = 0;
   for (var i = 0; i < accounts.length; i++) {
